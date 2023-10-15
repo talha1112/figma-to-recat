@@ -1,0 +1,150 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+}
+.div1{
+    background: linear-gradient(180deg, #151D48 0%, #151D48 100%);
+    width: 100%;
+    height: 318px;
+    z-index: -1;
+}
+#burger{
+    position: relative;
+    top: 2px;
+    left: 1350px;
+    width: 40.53px;
+    height: 26px;
+}
+.toogles div{
+    border: 0px white;
+    background-color: white;
+    height: 25.2px;
+    color:  #535961;
+}
+.toogles{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    width: 100%;
+    height: 63px;
+    border-radius: 0px, 0px, 18px, 18px;
+    box-shadow: 0px 0px 10px 0px #888888;
+
+}
+
+.logo{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    width: 208px;
+    height: 36px;
+    margin: 50px 0px 0px 30px;
+    color:#FFFFFF;
+    z-index: 1; 
+    gap: 20px;  
+}
+#p1{
+    position: relative;
+    right: 0.5%;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+#p2{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 300px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+#search{
+    
+    width: 710px;
+    height: 50px;
+    border-radius: 4px;
+    opacity: 0.4px;
+    background: #575656;
+}
+
+.longtext{
+    position:relative;
+    left: 400px;
+    top: -70px;
+    z-index: 1;
+    width: 706px;
+    height: 61px;
+
+}
+#t1,#t3{
+    color: #FFFFFF;
+    font-family: Puffy ;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+#t2{
+    color:#19BDF2;
+    ;
+    font-family: Avenir LT Std;
+    font-size: 35px;
+    font-weight: 750;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+
+#headset{
+    position: relative;
+    right: 600px;
+    top: 75px;
+    z-index: 1;
+    width: 129.05px;
+    height: 127.33px;
+    box-shadow: 0px -6px 12px 0px #ADB4BD26;
+ 
+}
+#jucer{
+    position: relative;
+    right: 690px;
+    top: 85px;
+    width: 135px;
+    height: 137px;
+    box-shadow: -15px -7px 23px 0px #0000006B;
+}
+#bag{
+    z-index: 1;
+    position: relative;
+    left: 350px;
+    top: 70px;
+    width: 138px;
+    height: 126px;
+    box-shadow: -0.8893118500709534px -1.7786237001419067px 15.118301391601562px 0px #ADB4BD40 inset;
+}
+#iphone{
+    z-index: 1;
+    position: relative;
+    left: 80px;
+    top: 80px;
+    width: 173px;
+    height: 122px;
+    box-shadow: 5.482969284057617px -11.879767417907715px 21.018049240112305px 0px #0000006B;
+}

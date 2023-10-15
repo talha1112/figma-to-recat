@@ -1,0 +1,38 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 235px;
+    background: #151D48;
+
+}
+.footer>p{
+    position: relative;
+    padding: 0px 0px 0px 0px ;
+    top: 30px;
+    left: 500px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #c8bcbc;
+}
+
+.textdiv{
+    padding: 110px 420px 0px 0px;
+    display: flex;
+    gap: 20px;
+    width: 516px;
+    height: 26px;
+}
+.textdiv p{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF80;
+}
